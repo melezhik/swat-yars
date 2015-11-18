@@ -1,6 +1,6 @@
 # swat-yars
 
-black box testing for yars restapi
+[swat](https://github.com/melezhik/swat) black box testing for yars restapi
 
 
 # install
@@ -16,6 +16,16 @@ black box testing for yars restapi
 # run tests against a dedicated host
 
     carton exec swat 192.168.0.1:9001
+
+# author
+
+Alexey Melezhik
+
+# see also
+
+* [https://github.com/melezhik/swat](https://github.com/melezhik/swat)
+
+
 
 
 
